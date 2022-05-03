@@ -177,7 +177,7 @@ Distributed under the GNU GPLv3 License. See `COPYING.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - contact@tabithariley.co.uk
+Tabitha Riley - contact@tabithariley.co.uk
 
 Project Link: [https://github.com/tabitha-r/by-the-bell](https://github.com/tabitha-r/by-the-bell)
 
