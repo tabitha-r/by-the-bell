@@ -1,0 +1,33 @@
+/*
+    By The Bell
+    - - -
+    Time Organisation App
+    By Tabitha Riley
+    - - -
+    https://www.github.com/tabitha-r/by-the-bell/
+    https://www.tabithariley.co.uk/
+*/
+// Internal Imports Imports
+
+
+// External Imports
+
+
+/* Default Styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+.App {
+    font: {
+        family: 'Quicksand', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        weight: 400;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-weight: 500;
+    }
+}
